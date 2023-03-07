@@ -1,0 +1,31 @@
+.btn:hover{
+    background-color: #0a1172;
+}
+
+.btn{
+    border-color: black;
+    color: black;
+}
+.navbar{
+    padding: 0;
+    margin: 0;
+    opacity: 3.0;
+}
+
+
+#background-video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+.text{
+    color: white;
+}
+
+.col{
+    opacity: 0.72;
+}
